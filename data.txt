@@ -1,0 +1,44 @@
+[
+	{
+		"_id": "666060c3663808c4a6600e76",
+		"coursename": "EIE 521",
+		"thumbnail": "eie.png",
+		"genre": "sciences",
+		"__v": 0
+	},
+	{
+		"_id": "666060cd663808c4a6600e78",
+		"coursename": "EIE 551",
+		"thumbnail": "eie.png",
+		"genre": "sciences",
+		"__v": 0
+	},
+	{
+		"_id": "666060d8663808c4a6600e7a",
+		"coursename": "EIE 553",
+		"thumbnail": "eie.png",
+		"genre": "sciences",
+		"__v": 0
+	},
+	{
+		"_id": "666060e3663808c4a6600e7c",
+		"coursename": "EIE 593",
+		"thumbnail": "code.png",
+		"genre": "sciences",
+		"__v": 0
+	},
+	{
+		"_id": "666063be663808c4a6600e7e",
+		"coursename": "EIE 514",
+		"thumbnail": "bicycle.png",
+		"genre": "sciences",
+		"__v": 0
+	},
+	{
+		"_id": "666063d0663808c4a6600e80",
+		"coursename": "CEN 514",
+		"thumbnail": "bicycle.png",
+		"genre": "sciences",
+		"__v": 0
+	}
+]
